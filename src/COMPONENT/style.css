@@ -1,0 +1,22 @@
+.header {
+    height: 100vh;
+    background-image: url('.././assets/images/bg/main.jpg');
+}
+
+.caption {
+    height: 100vh;
+    display: flex;
+    color: burlywood;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+
+.iwi {
+
+    height: auto;
+    background-image: url('.././assets/images/bg/scifi.jpg');
+    background-size: cover;
+}
